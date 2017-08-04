@@ -39,6 +39,7 @@ ISP | $ [^1][^2] | $/Y [^1][^3] | Exit [^1][^4]
 
 ## To Do
 - [ ] Check if other Providers mentioned in the [GoodBadISPs#ProposedISPs](https://trac.torproject.org/projects/tor/wiki/doc/GoodBadISPs#ProposedISPs) and [GoodBadISPs#Goodexperiences](https://trac.torproject.org/projects/tor/wiki/doc/GoodBadISPs#Goodexperiences) accept Bitcoin.
+- [ ] Check Providers mentioned in http://usebitcoins.info/index.php/component/tags/tag/vps-hosting
 
 ## Contribute
 [Edit This Page](https://github.com/torbitcoinvps/torbitcoinvps.github.io/blob/master/index.md)
