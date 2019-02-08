@@ -6,6 +6,7 @@ ISP | $ [^1][^2] | $/Y [^1][^3] | Exit [^1][^4]
 --- | --- | --- | ---
 [alexhost.md](https://alexhost.md) | $12 | $120 | False
 [bitfolk.com](https://bitfolk.com) | $12 | $118 | True
+[serversdrift.com](https://serversdrift.com) | $4.90 | $49.98 | Unknown
 [buyvm.net](https://buyvm.net) | $4 | $15 | False
 [chunkhost.com](https://chunkhost.com) | $5 | $60 | Unknown
 [coinshost.com](https://coinshost.com) | $97 | $97 | False
