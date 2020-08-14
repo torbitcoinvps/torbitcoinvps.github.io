@@ -9,6 +9,7 @@ ISP | $ [^1][^2] | $/Y [^1][^3] | Exit [^1][^4]
 [buyvm.net](https://buyvm.net) | $4 | $15 | False
 [chunkhost.com](https://chunkhost.com) | $5 | $60 | Unknown
 [coinshost.com](https://coinshost.com) | $97 | $97 | False
+[crazyrdp.com](https://crazyrdp.com) | $10 | $120 | False
 [crowncloud.net](https://crowncloud.net) | $6 | $25 | False
 [dataclub.biz](https://dataclub.biz) | $18 | $196 | True
 [deepnetsolutions.com](https://deepnetsolutions.com) | $2 | $10 | False
