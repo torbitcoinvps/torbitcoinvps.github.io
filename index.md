@@ -19,6 +19,7 @@ ISP | $ [^1][^2] | $/Y [^1][^3] | Exit [^1][^4]
 [mivocloud.com](https://mivocloud.com) | $6 | $59 | False
 [orangewebsite.com](https://orangewebsite.com) | $35 | $318 | Unknown
 [pulseservers.com](https://pulseservers.com) | $10 | $120 | True
+[radwebhosting.com](https://radwebhosting.com) | $7 | $78 | True
 [ramnode.com](https://ramnode.com) | $3 | $15 | False
 [serverastra.com](https://serverastra.com) | $6 | $27 | True
 [snelserver.com](https://snelserver.com) | $4 | $105 | True
