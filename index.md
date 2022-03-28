@@ -11,7 +11,6 @@ ISP | $ [^1][^2] | $/Y [^1][^3] | Exit [^1][^4]
 [coinshost.com](https://coinshost.com) | $97 | $97 | False
 [crowncloud.net](https://crowncloud.net) | $6 | $25 | False
 [dataclub.biz](https://dataclub.biz) | $18 | $196 | True
-[deepnetsolutions.com](https://deepnetsolutions.com) | $2 | $10 | False
 [flokinet.is](https://flokinet.is) | $18 | $142 | True
 [gandi.net](https://gandi.net) | $4 | $43 | Unknown
 [linevast.de](https://linevast.de) | $9 | $94 | False
